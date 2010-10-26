@@ -1,0 +1,1 @@
+CloudAligner is a Map/Reduce based tool to align read sequences to the genome. It can support both fasta and fastq input files. For the output format, it can generates output files in either BED (6 columns) or SAM format.
